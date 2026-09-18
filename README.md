@@ -26,3 +26,6 @@ hello_cmake/
 - 说明文档：README.md
 
 -告诉git哪些文件不要上传： 。gitignore
+<img width="5712" height="4284" alt="IMG_2642" src="https://github.com/user-attachments/assets/86aefaf1-f796-49fa-bd1c-675b672e32d3" />
+<img width="5712" height="4284" alt="IMG_2643" src="https://github.com/user-attachments/assets/a6069360-7839-4076-aa70-821b24e99c38" />
+<img width="5712" height="4284" alt="IMG_2645" src="https://github.com/user-attachments/assets/3639ed7c-8d47-462c-9fd3-1adebc6e5265" />
