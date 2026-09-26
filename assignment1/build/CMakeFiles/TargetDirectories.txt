@@ -1,0 +1,3 @@
+/home/promissory/Documents/workplace/assignment1/build/CMakeFiles/task1_image.dir
+/home/promissory/Documents/workplace/assignment1/build/CMakeFiles/edit_cache.dir
+/home/promissory/Documents/workplace/assignment1/build/CMakeFiles/rebuild_cache.dir

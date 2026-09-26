@@ -1,0 +1,3 @@
+/home/promissory/Documents/workplace/assignment2/build/CMakeFiles/task2_fit.dir
+/home/promissory/Documents/workplace/assignment2/build/CMakeFiles/edit_cache.dir
+/home/promissory/Documents/workplace/assignment2/build/CMakeFiles/rebuild_cache.dir
