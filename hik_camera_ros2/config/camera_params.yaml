@@ -1,0 +1,15 @@
+hik_camera:
+  ros__parameters:
+    # 设备选择：优先序列号；若为空则用 IP；都为空则取第一个枚举到的相机
+    serial_number: "DB0178696"     # 本机 MV-CS016-10UC 的序列号
+    camera_ip: ""                  # GigE 相机可填 IP，例如 "192.168.1.10"
+
+    # 话题 / 坐标系
+    topic: "image_raw"
+    frame_id: "camera"
+
+    # 相机参数（<0 表示不设置，保持相机当前值）
+    exposure_time: -1.0            # 曝光时间，单位 us
+    gain: -1.0                     # 增益，单位 dB
+    frame_rate: -1.0               # 帧率，单位 fps
+    pixel_format: ""               # 可选 Mono8 / RGB8_Packed / BGR8_Packed，留空不切换
